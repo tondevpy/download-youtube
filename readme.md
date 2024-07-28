@@ -9,11 +9,11 @@ Este projeto permite fazer o download de vídeos do YouTube utilizando a bibliot
 
 ## Contribuição
 
-1- Fork este repositório.
-2- Crie uma branch para sua feature ou correção: git checkout -b minha-nova-feature.
-3- Commit suas mudanças: git commit -m 'Adiciona uma nova feature'.
-4- Push para a branch: git push origin minha-nova-feature.
-5- Envie um Pull Request.
+- Fork este repositório.
+- Crie uma branch para sua feature ou correção: git checkout -b minha-nova-feature.
+- Commit suas mudanças: git commit -m 'Adiciona uma nova feature'.
+- Push para a branch: git push origin minha-nova-feature.
+- Envie um Pull Request.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
